@@ -1,8 +1,8 @@
 #!/usr/bin/env xdg-open
 [Desktop Entry]
 Name=Keyboard On/Off
-Exec=bash /home/gobi-wan/Desktop/.KeyBoardDisable.sh
+Exec=bash /.KeyBoardDisable.sh
 Comment=Disable or enable keyboard and touchpad with one click.
 Terminal=false
-Icon=/home/gobi-wan/Pictures/keyboard.png
+Icon=
 Type=Application
